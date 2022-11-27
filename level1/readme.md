@@ -8,4 +8,4 @@ password: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 The password for level 2 is stored in a file labelled '-' in the home directory. To obtain the password, use `cat < -`.
 
 ## Flag
-Level 2 Password: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+Level 2 Password: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
