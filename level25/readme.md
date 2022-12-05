@@ -48,3 +48,8 @@ exit 0
 ```
 
 I am supposed to understand this code and try to break out of it.
+
+After reading some writeups, I understand that the `more` command will be able to display text in multiple pages if the size of the file is too large to be displayed on the terminal. So by resizing the terminal screen to be smaller than the printed data, we were able to access the `more` gui. Using the `v` command, we can open an editor (vi) to edit some parameters of the file. We can then set the shell of the current user using the following command `:set shell=/bin/sh`. Next, we can open a shell by using `:shell`. Then we can print the password for bandit26 from the `/etc/bandit_pass` folder to obtain the flag.
+
+## Flag
+Level 26 Password: c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1
