@@ -10,3 +10,4 @@ password: bandit0
 
 ## Writeup
 password for level1: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+
