@@ -5,7 +5,7 @@ username: bandit13
 password: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
 ## Writeup
-The flag was stored on a file which only bandit14 has access to. I was given a private key to ssh into the server as bandit14 to obtaint he flag. 
+The flag was stored on a file which only bandit14 has access to. I was given a private key to ssh into the server as bandit14 to obtain the flag. 
 
 Command used:
 `ssh bandit14@bandit.labs.overthewire.org -p2220 -i sshkey.private`
