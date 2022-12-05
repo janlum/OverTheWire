@@ -39,7 +39,8 @@ Level 27 - git
 Level 28 - git checkout older versions and rollback
 Level 29 - git checkout other branches and list all branches
 Level 30 - git tags
-Level 31 - 
+Level 31 - git push and .gitignore
+Level 32 -  
 
 
 ```
