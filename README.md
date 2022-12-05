@@ -36,7 +36,7 @@ Level 24 - brute force with bash; awk and nc
 Level 25 - more, vim :set shell and :shell
 Level 26 - more, vim :set shell and :shell
 Level 27 - git
-Level 28 - 
+Level 28 - git checkout older versions and rollback
 Level 29 - 
 Level 30 - 
 
