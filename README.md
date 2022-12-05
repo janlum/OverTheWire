@@ -1,7 +1,7 @@
 # OverTheWire Bandit War Game Writeups
-## Author: Jan Fok
-## Status: **Incomplete**
-## Time To Completion: N/A
+Author: Jan Fok
+Status: **Incomplete**
+Time To Completion: N/A
 
 
 ### Level Topics for Future Reference
