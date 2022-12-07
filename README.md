@@ -1,9 +1,9 @@
 # OverTheWire Bandit War Game Writeups
 Author: Jan Fok
 
-Status: **Incomplete**
+Status: **Completed**
 
-Time To Completion: N/A
+Time To Completion: 9 days
 
 
 ### Level Topics for Future Reference
@@ -40,7 +40,7 @@ Level 28 - git checkout older versions and rollback
 Level 29 - git checkout other branches and list all branches
 Level 30 - git tags
 Level 31 - git push and .gitignore
-Level 32 -  
-
+Level 32 - bash environment variables and $0 to list shell name 
+Level 33 - Completed Bandit
 
 ```
