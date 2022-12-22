@@ -8,5 +8,6 @@ Level 0 - grep
 Level 1 - ltrace
 Level 2 - race condition and TOCTOU
 Level 3 - ltrace
-Level 4 -  
+Level 4 - decoding binary to hex
+Level 5 -  
 
